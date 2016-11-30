@@ -47,11 +47,6 @@ A basic project template has been created in this repository, feel free to downl
 
 Testing is a big part of our culture. We strive to have decent code coverage and tests that are meaningful. Write any necessary tests.  Mocha and Chai are installed as developer dependencies by default, but you may use any library you deem necessary.
 
-## User Interface
-
-The user interface may be built using any single page application framework (angular, ember, marionette, polymer, reactjs, etc). 
-
-
 # Summary
 
 Zip up the source code, and send it to: <ganapathi.adapa@berkadia.com>
